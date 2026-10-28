@@ -20,7 +20,3 @@ episodes/*/audio.wav
 # macOS noise
 .DS_Store
 
-# Openers with an episode number in the name: tens of megabytes each, and the
-# kit rebuilds any of them in four minutes from the scene plus the music track
-# that already ships inside the episode 1 renders.
-arts/intros/*/*ep[0-9]*.mp4

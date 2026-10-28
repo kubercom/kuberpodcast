@@ -1,6 +1,6 @@
 :root {
   color-scheme: light dark;
-  /* arts/kubernetes_podcast_brandpack/README.txt: paper, ink and accent palette. */
+  /* brandbook brandpack README.txt: paper, ink and accent palette. */
   --background: #fff7e8;
   --surface: #fffcf5;
   --text: #33241b;
@@ -148,7 +148,7 @@ footer { color: var(--muted); font-size: 0.75rem; padding: 24px 0 40px; border-t
 
 /* ── Brand objects ─────────────────────────────────────────────────────────
    The kit's own drawings, exported from the code that draws the openers:
-   arts/podcast-kit → `node tools/export-svg.js` → pages/objects/. Keeping one
+   the brandbook kit → `node tools/export-svg.js` → pages/objects/. Keeping one
    source means the site cannot drift away from the video. Everything here is
    decoration: each element is aria-hidden and carries no meaning a reader
    needs. */
